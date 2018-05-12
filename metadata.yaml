@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '33067'
     url: http://www.gutenberg.org/2009/agents/33067
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28002#Electra
 gutenberg_issued: '2009-02-04'
 gutenberg_type: Text
 identifiers:
